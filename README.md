@@ -14,7 +14,8 @@ I use SQL, Python, and Tableau to analyze data, build dashboards, and generate b
 
 This project analyzes financial data of a small business to identify revenue trends, cost drivers, and opportunities for optimization.
 
-**Tools:** Python (Pandas), SQL (PostgreSQL), Tableau
+**Tools:** Python (Pandas), SQL (PostgreSQL), Tableau  
+Performed SQL-based analysis including KPI calculation, time-series aggregation, and Pareto analysis using window functions.
 
 #### Key Insights
 
@@ -30,6 +31,14 @@ This project analyzes financial data of a small business to identify revenue tre
 - Provided actionable insights for cost control and growth
 
 #### Visualizations
+
+#### Dashboard Overview  
+![Dashboard Overview](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/dashboard_overview.png)
+
+#### Key Visualizations  
+![Trend Analysis](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/trend.png)  
+
+![Expense Breakdown](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/breakdown.png)  
 
 ![Revenue](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/revenue_expense.png)
 
