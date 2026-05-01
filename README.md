@@ -4,13 +4,13 @@
 
 Data Analyst with a background in business management.
 
-I use SQL, Python, and Tableau to analyze data, build dashboards, and generate business insights.
+I use SQL, Python, and Tableau to analyze data, build dashboards, and generate actionable business insights.
 
 ---
 
 ## Projects
 
-### Financial Data Analysis Project
+### Small Business Financial Analysis
 
 This project analyzes financial data of a small business to identify revenue trends, cost drivers, and opportunities for optimization.
 
@@ -35,18 +35,18 @@ Performed SQL-based analysis including KPI calculation, time-series aggregation,
 #### Dashboard Overview  
 ![Dashboard Overview](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/dashboard_overview.png)
 
+
 #### Key Visualizations  
 ![Trend Analysis](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/trend.png)  
+Revenue and profit trends show clear seasonality.  
 
-![Expense Breakdown](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/breakdown.png)  
+![Expense Breakdown](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/breakdown.png) 
+Expense breakdown highlights key cost drivers.
 
-![Revenue](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/revenue_expense.png)
-
-![Profit](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/profit.png)
 
 #### Links
 
-[View Project on GitHub](https://github.com/Yurii-Dan/small-business-finance-analysis)
+[View Full Project & Code on GitHub](https://github.com/Yurii-Dan/small-business-finance-analysis)
 
 ---
 
