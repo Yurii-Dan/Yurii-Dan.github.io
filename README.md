@@ -13,7 +13,7 @@ I use SQL, Python, and Tableau to analyze data, build dashboards, and generate a
 ### Small Business Financial Analysis
 
 This project analyzes financial data of a small business to identify revenue trends, cost drivers, and opportunities for optimization.  
-This solution can be adapted to analyze financial data for different types of small businesses.  
+This solution can be adapted to analyze financial data for different types of small businesses using custom datasets, making it applicable to real-world scenarios.   
 End-to-end workflow: data generation, SQL analysis, and dashboard development.
 
 **Tools:** Python (Pandas), SQL (PostgreSQL), Tableau  
