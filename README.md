@@ -21,7 +21,7 @@ Performed SQL-based analysis including KPI calculation, time-series aggregation,
 
 - Top expense categories account for ~60–80% of total costs (Pareto principle)
 - Salary and Marketing are the main cost drivers
-- Clear seasonality in revenue and profit trends
+- Profitability shows variation throughout the year, with potential seasonal patterns
 - Business is highly dependent on a single revenue stream (~80% Sales)
 
 #### Business Value
