@@ -12,7 +12,7 @@ I use SQL, Python, and Tableau to analyze data, build dashboards, and generate a
 
 ### Small Business Financial Analysis
 
-This project analyzes financial data of a small business to identify revenue trends, cost drivers, and opportunities for optimization.
+This project analyzes financial data of a small business to identify revenue trends, cost drivers, and opportunities for optimization.  
 This solution can be adapted to analyze financial data for different types of small businesses.
 End-to-end workflow: data generation, SQL analysis, and dashboard development.
 
@@ -40,10 +40,10 @@ Used SQL for KPI calculation, time-series aggregation, and Pareto analysis using
 
 #### Key Visualizations  
 ![Trend Analysis](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/trend.png)  
-Revenue and profit trends indicate potential seasonality patterns.  
+Profit over time shows variation with potential seasonal patterns.  
 
 ![Expense Breakdown](https://raw.githubusercontent.com/Yurii-Dan/small-business-finance-analysis/main/outputs/breakdown.png) 
-Expense breakdown highlights the main cost drivers and optimization opportunities.
+Analysis of revenue and expenses highlights key cost drivers and their distribution across categories and time.
 
 
 #### Links
